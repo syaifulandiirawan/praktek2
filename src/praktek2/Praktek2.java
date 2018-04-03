@@ -5,10 +5,6 @@
  */
 package praktek2;
 
-/**
- *
- * @author udin'
- */
 public class Praktek2 {
 
     /**
